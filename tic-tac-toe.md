@@ -1,9 +1,9 @@
-#Tic-tac-toe
+# Tic-tac-toe Game
 
-###Description
+### Description
 Did you know an early variation of tic-tac-toe was already played in the Roman Empire, around the first century BC? It was called __terni lapilli__ (three pebbles at a time). Your goal is to create more modern version this popular game - with artificial intelligence!
 
-###Requirements:
+### Requirements:
   1. There is a 3x3 formatted board, empty at the beginning.
   2. The application randomly chooses a first player (a human player or a computer player).
   3. The first player uses an "X" sign, the second player uses an "O" sign.
